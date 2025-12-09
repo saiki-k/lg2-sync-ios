@@ -1,1 +1,1 @@
-# lg2-sync-ios
+# lg2-sync
